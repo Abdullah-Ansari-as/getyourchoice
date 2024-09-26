@@ -8,6 +8,7 @@ function HomePage() {
 
     return (
         <>
+        {/* ...... */}
         <h1>Name: {myName}, Age: {age}</h1>
             <h1 className='text-center mt-3'>Home Page</h1>
             <div className="card container">
